@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yigit\\Desktop\\Factory\\Decorator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB689B0-1F6C-4816-8867-108DDF0ED30B}|Decorator\\Decorator.csproj|c:\\users\\yigit\\desktop\\factory\\decorator\\decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB689B0-1F6C-4816-8867-108DDF0ED30B}|Decorator\\Decorator.csproj|solutionrelative:decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\Factory\\Decorator\\Decorator\\Program.cs",
+              "RelativeDocumentMoniker": "Decorator\\Program.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\Factory\\Decorator\\Decorator\\Program.cs",
+              "RelativeToolTip": "Decorator\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T23:20:20.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
